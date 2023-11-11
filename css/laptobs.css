@@ -1,0 +1,259 @@
+@media(max-width:1306px){
+    header{
+        padding:24px 32px ;
+        width: 1024px;
+       }
+       /* section 1 */
+       .section1{
+        width: 100%;
+       }
+       /* section 2 */
+       .section2{
+        width: 100%;
+        height: 704px;
+        flex-wrap: wrap;
+        padding: 32px; 
+       }
+       .section2_img{
+        width: 960px;
+        height: 480px;
+        /* flex-shrink: 0; */
+       }
+    .section2_div{ 
+        margin:0px 0px;
+        display: flex;
+        column-gap: 80px;
+    }
+    .section2_h3{
+        width: 440px;
+    }
+    .section2_p{
+        width: 440px;
+    }
+    /* section 3 */
+    .section3{
+        padding: 80px 32px;
+        
+    }
+    .section3_main_div{
+        display: none;
+       }
+    .section3_div_1{
+        display: flex;
+    
+    }
+    .section3_main_div{
+        display: flex;
+    height: 40px;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    }
+    
+    /* footer  */
+    footer{
+        display: block;
+        padding: 40px 445px 40px 32px;
+        flex-wrap: wrap;
+    }
+    .footer_main_h2_div{
+        display: block;
+        margin-bottom: 32px;
+    }
+    .footer_h{
+        display: flex;
+    }
+    .footer_div1{
+        column-gap: 160px;
+    }
+    .footer_subscribe_div{
+        display: none;
+    }
+}
+
+@media(max-width:1024px){
+   header{
+    padding:24px 32px ;
+    width: 1024px;
+   }
+   /* section 1 */
+   .section1{
+    width: 100%;
+   }
+   /* section 2 */
+   .section2{
+    width: 100%;
+    height: 704px;
+    flex-wrap: wrap;
+    padding: 32px; 
+   }
+   .section2_img{
+    width: 960px;
+    height: 480px;
+    /* flex-shrink: 0; */
+   }
+.section2_div{ 
+    margin:0px 0px;
+    display: flex;
+    column-gap: 80px;
+}
+.section2_h3{
+    width: 440px;
+}
+.section2_p{
+    width: 440px;
+}
+/* section 3 */
+.section3{
+    padding: 80px 32px;
+    
+}
+.section3_main_div{
+    display: none;
+   }
+.section3_div_1{
+    display: flex;
+
+}
+.section3_main_div{
+    display: flex;
+height: 40px;
+align-items: center;
+gap: 16px;
+align-self: stretch;
+}
+
+/* footer  */
+footer{
+    display: block;
+    padding: 40px 445px 40px 32px;
+    flex-wrap: wrap;
+}
+.footer_main_h2_div{
+    display: block;
+    margin-bottom: 32px;
+}
+.footer_h{
+    display: flex;
+}
+.footer_div1{
+    column-gap: 160px;
+}
+.footer_subscribe_div{
+    display: none;
+}
+}
+@media(max-width: 1000px){
+
+    .section2{
+        width:100%;
+        height: 564px;
+        top: 416px;
+        padding: 24px;
+        flex-wrap: wrap;
+    }
+.section2_img{
+        width: 696px;
+        height: 320px;
+    }
+    .section2_div{ 
+        margin:0px 0px;
+        display: block;
+        margin: auto;
+        column-gap: 40px;
+    }
+    .section2_h3{
+        width: 696px;
+        height: 64px;
+        text-align:center;
+
+    }
+    .section2_p{
+        width: 696px;
+        height: 72px;
+        top: 84px;
+        text-align: center;
+}
+}
+@media(max-width:998px){
+    header{
+        padding:24px;
+        width: 744px;
+       }
+       /* section 1 */
+       .section1{
+        width: 100%;
+        height: 320px;
+       }
+       .section1_h3{
+        font-size: 36px;
+
+       }
+       /* section 2 */
+       .section2{
+        width:100%;
+        height: 564px;
+        top: 416px;
+        padding: 24px;
+        flex-wrap: wrap;
+
+       }
+       .section2_img{
+        width: 696px;
+        height: 320px;
+       }
+    .section2_div{ 
+        margin:0px 0px;
+        display: block;
+        margin: auto;
+        column-gap: 40px;
+    }
+    .section2_h3{
+        width: 696px;
+        height: 64px;
+        text-align:center;
+
+    }
+    .section2_p{
+        width: 696px;
+        height: 72px;
+        top: 84px;
+        text-align: center;
+
+
+}
+/* section 3 */
+.section3{
+    padding: 24px;
+    display: block;
+
+   
+
+}
+.section3_main_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 16px;
+}
+.section3_figcaption{
+    text-align: center;
+}
+.div_text{
+ column-gap: 20px;
+
+}
+.text2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* footer  */
+footer{
+    
+}
+.footer_div1{
+    column-gap: 96px;
+}
+}
+
+   
